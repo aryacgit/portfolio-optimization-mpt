@@ -238,6 +238,7 @@ Portfolio-Optimization-MPT/
     ├── maximum_returns_allocation.png
     ├── maximum_sharpe_allocation.png
     ├── minimum_variance_allocation.png
+    ├── cumulative_portfolio_performance.png
     ├── portfolio_performance.png
     ├── stock_return_covariance_matrix.png
     └── 30day_rolling_portfolio_volatilityk.png
